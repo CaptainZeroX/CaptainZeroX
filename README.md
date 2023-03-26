@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on application for a startup company<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with C and Javascript<br>🌱 I’m currently learning Javascript & C & Python<br>💬 Ask me about Tech<br>⚡ Fun fact competed in a lot of robotics tournaments
+🔭 I’m currently working on application for a startup company<br>👯 I’m looking to collaborate on any project that will help me and you grow<br>🤝 I’m looking for help with C and Javascript<br>🌱 I’m currently learning Javascript & C & Python<br>💬 Ask me about Tech<br>⚡ Fun fact competed in a lot of robotics tournaments
 
 
 # 💻 Tech Stack:
